@@ -2,7 +2,7 @@
 
 #### Your name
 
-TODO
+Jae Lutz
 
 #### Your section leader's name
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have fully assembled the laser trip wire, and have got the raspberry pi to detect when the laser is tripped.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not connected the raspberry pi to my alexa yet, and I have yet to set up the routine.
 
 #### What problems, if any, have you encountered?
 
-TODO
+
