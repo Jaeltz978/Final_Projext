@@ -26,4 +26,4 @@ I have not connected the raspberry pi to my alexa yet, and I have yet to set up 
 
 #### What problems, if any, have you encountered?
 
-
+Finding a way to slow down the while loop that sense when the laser has been tripped.
