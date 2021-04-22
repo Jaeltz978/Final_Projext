@@ -6,11 +6,11 @@ Jae Lutz
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
 
-TODO
+Laser Surveillance
 
 ***
 
